@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaveenaK-06
+- 👋 Hi, I’m @RaveenaK
 - 👀 I’m passionate in learning new technologies
 - 🌱 I’m currently learning about Artificial intelligence
 
